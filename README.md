@@ -1,8 +1,7 @@
 # Nand2Tetris
 Nand2Tetris project for UIS computer architecture.
 
-Integrantes: 
-
+## Integrantes: 
 Karen Juliana Mora - 2202027
 
 Santiago andres Delgado - 2211799
